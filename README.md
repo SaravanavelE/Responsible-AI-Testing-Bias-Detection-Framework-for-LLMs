@@ -175,6 +175,7 @@ cd backend
 
 <img width="1600" height="813" alt="Visualization" src="https://github.com/user-attachments/assets/d8a233ee-ea66-49df-bf0c-f26d2816e5f8" />
 
+<img width="1600" height="638" alt="Docker" src="https://github.com/user-attachments/assets/faa87ab2-6bbf-4249-aacd-26d55ed923af" />
 
 ## License
 
