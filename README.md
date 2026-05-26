@@ -2,7 +2,6 @@
 
 **ULockAI Shield** — Enterprise AI Firewall & LLM Vulnerability Scanning Platform
 
-
 An MVP+ framework for evaluating LLM applications on **security, fairness, hallucination, privacy, and compliance** risks. It provides automated vulnerability scanning, a live prompt firewall, PII redaction, policy enforcement, and an enterprise dashboard for responsible AI testing.
 
 Inspired by enterprise guardrails (Lakera Guard, ProtectAI, Promptfoo) with modules for injection detection, jailbreak testing, DLP, and compliance mapping (OWASP LLM Top 10, NIST AI RMF, GDPR, CERT-In).
@@ -169,6 +168,13 @@ cd backend
 | `GET/POST /api/v1/llm-connections` | LLM tenant CRUD |
 | `POST /api/v1/scans` | Start vulnerability scan |
 | `POST /api/v1/policies/firewall/intercept` | Live prompt firewall |
+
+<img width="1600" height="810" alt="Dashboard" src="https://github.com/user-attachments/assets/d8fa6a6e-27b1-46d7-8199-e19e3d5e5234" />
+
+<img width="1600" height="797" alt="Vulnerability scan" src="https://github.com/user-attachments/assets/9491fdae-f556-400a-bbb3-e2bdd35e3871" />
+
+<img width="1600" height="813" alt="Visualization" src="https://github.com/user-attachments/assets/d8a233ee-ea66-49df-bf0c-f26d2816e5f8" />
+
 
 ## License
 
