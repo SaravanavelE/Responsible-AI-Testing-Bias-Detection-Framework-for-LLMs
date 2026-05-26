@@ -2,7 +2,6 @@
 
 **ULockAI Shield** — Enterprise AI Firewall & LLM Vulnerability Scanning Platform
 
-[![Repository](https://github.com/SaravanavelE/Responsible-AI-Testing-Bias-Detection-Framework-for-LLMs)](https://github.com/SaravanavelE/Responsible-AI-Testing-Bias-Detection-Framework-for-LLMs)
 
 An MVP+ framework for evaluating LLM applications on **security, fairness, hallucination, privacy, and compliance** risks. It provides automated vulnerability scanning, a live prompt firewall, PII redaction, policy enforcement, and an enterprise dashboard for responsible AI testing.
 
