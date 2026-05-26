@@ -8,6 +8,8 @@ An MVP+ framework for evaluating LLM applications on **security, fairness, hallu
 
 Inspired by enterprise guardrails (Lakera Guard, ProtectAI, Promptfoo) with modules for injection detection, jailbreak testing, DLP, and compliance mapping (OWASP LLM Top 10, NIST AI RMF, GDPR, CERT-In).
 
+> **About this project:** Evaluates LLM responses for fairness, hallucination, and privacy-related risks with automated pipelines and a monitoring dashboard for responsible AI testing and mitigation insights.
+
 ---
 
 ## What is included in this repository
