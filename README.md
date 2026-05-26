@@ -1,0 +1,2 @@
+# Responsible-AI-Testing-Bias-Detection-Framework-for-LLMs
+Developed an MVP framework for evaluating LLM responses on fairness, hallucination, and privacy-related risks. Built automated evaluation pipelines using LangChain and HuggingFace models with validation workflows for responsible AI testing. Implemented a Streamlit dashboard for monitoring evaluation metrics and generating mitigation insights.
